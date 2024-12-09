@@ -19,6 +19,9 @@
 - [Canva slides](https://www.canva.com/design/DAGYxJrBT20/QMKzpyGfFteFY3Z1_OxiDQ/edit?utm_content=DAGYxJrBT20&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Presentation video](https://www.youtube.com/watch?v=-UBhfoKy7so)
 
+- [ASJC code and subject area names (for `ASJC.json`)](https://service.elsevier.com/app/answers/detail/a_id/15181/supporthub/scopus/)
+- [Source title list (for `sources.json`)](https://www.elsevier.com/products/scopus/content#4-titles-on-scopus)
+
 ## Project Criteria
 - It must include the following three components:
   1. Data module: Data collection, data preparation, and data analysis.
