@@ -3,13 +3,21 @@
 ## Project Information
 - Group project for 2190513 Data Science, Year 2 Semester 1
 - Objective: to analyse, visualise, and predict data of research papers from Scopus
-- [Raw scopus data provided by the course courtesy of CU Office of Academic Resources (2018 - 2023)](https://drive.google.com/file/d/107WikNVtve-QY7I7-pMsdFFHpAnNFxmO/view?usp=sharing)
+- To run the demo, please download the [cleaned dataset](https://drive.google.com/drive/u/0/folders/1b02NIoTvMDRG0mxdOcvReaFowsK-crpz) first, then run `python -m streamlit run streamlit_app.py`. You can also visit the website [here](https://papers-please-proj.streamlit.app/).
 
 ## Members
 1. 6638031621 Jitawat Pinyosnit (Tan)
 2. 6638139821 Pemika Chantaraseno (Palmy)
 3. 6638217021 Vinita Jungwiwattanaporn (Ian)
 4. 6638222121 Sasiras Yodruangsa (King)
+
+## Links
+- [Raw scopus data provided by the course courtesy of CU Office of Academic Resources (2018 - 2023)](https://drive.google.com/file/d/107WikNVtve-QY7I7-pMsdFFHpAnNFxmO/view?usp=sharing)
+- [Cleaned dataset](https://drive.google.com/drive/u/0/folders/1b02NIoTvMDRG0mxdOcvReaFowsK-crpz)
+- [Website with streamlit deployed](https://papers-please-proj.streamlit.app/)
+- [Github repo for the website](https://github.com/vinitian/data-sci-scopus-proj-deploy/)
+- [Canva slides](https://www.canva.com/design/DAGYxJrBT20/QMKzpyGfFteFY3Z1_OxiDQ/edit?utm_content=DAGYxJrBT20&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Presentation video](https://www.youtube.com/watch?v=-UBhfoKy7so)
 
 ## Project Criteria
 - It must include the following three components:
@@ -21,9 +29,9 @@
 - Incorporating additional data sources, such as author locations or affiliation coordinates, will enhance the project’s appeal and may earn extra points.
 
 ## Checklist
-[ ] Data collection
-[ ] Data preparation
-[ ] Data analysis
-[ ] Data visualisation
-[ ] AI module
-[ ] Slides & presentation video
+- [x] Data collection
+- [x] Data cleaning
+- [x] Data analysis
+- [x] Data visualisation
+- [x] AI model
+- [x] Slides & presentation video
