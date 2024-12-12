@@ -10,7 +10,7 @@
 ## Members
 1. 6638031621 Jitawat Pinyosnit [@FaDeAWAYut](https://github.com/FaDeAWAYut)
 2. 6638139821 Pemika Chantaraseno [@amukamu2](https://github.com/amukamu2)
-3. 6638217021 Vinita Jungwiwattanaporn [@vinitian](https://github.com/vinitian/data-sci-scopus-proj)
+3. 6638217021 Vinita Jungwiwattanaporn [@vinitian](https://github.com/vinitian)
 4. 6638222121 Sasiras Yodruangsa [@Sasirasys](https://github.com/Sasirasys)
 
 ## Links
