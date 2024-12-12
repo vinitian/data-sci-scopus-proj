@@ -5,8 +5,11 @@
 - Objective: to analyse, visualise, and predict data of research papers from Scopus
 - To run the demo, please download the [cleaned dataset](https://drive.google.com/drive/folders/1zEumhkVybecdpP9SETxyF5gMEYWHQbdJ?usp=sharing) first, then run `python -m streamlit run streamlit_app.py`. You can also visit the website [here](https://papers-please-proj.streamlit.app/).
 
+<!-- github button from https://buttons.github.io/ -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 ## Members
-1. 6638031621 Jitawat Pinyosnit (Tan)
+1. 6638031621 Jitawat Pinyosnit (Tan) <a class="github-button" href="https://github.com/FaDeAWAYut" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @FaDeAWAYut on GitHub">Follow @FaDeAWAYut</a>
 2. 6638139821 Pemika Chantaraseno (Palmy)
 3. 6638217021 Vinita Jungwiwattanaporn (Ian)
 4. 6638222121 Sasiras Yodruangsa (King)
