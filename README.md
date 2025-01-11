@@ -3,7 +3,7 @@
 ## Project Information
 - Group project for 2190513 Data Science, Year 2 Semester 1
 - Objective: to analyse, visualise, and predict data of research papers from Scopus
-- To run the demo, please download the [cleaned dataset](https://drive.google.com/drive/folders/1zEumhkVybecdpP9SETxyF5gMEYWHQbdJ?usp=sharing) first, then run `python -m streamlit run streamlit_app.py`. You can also visit the website [here](https://papers-please-proj.streamlit.app/).
+- To run the demo, please download the [cleaned dataset](https://drive.google.com/file/d/1J1gk4LVZSjy-B2BDxy5SrwZ3LMHHmIRY/view?usp=sharing) first, then run `python -m streamlit run streamlit_app.py`. You can also visit the website [here](https://papers-please-proj.streamlit.app/).
 
 <!-- github button from https://buttons.github.io/ -->
 
@@ -15,7 +15,7 @@
 
 ## Links
 - [Raw scopus data provided by the course courtesy of CU Office of Academic Resources (2018 - 2023)](https://drive.google.com/file/d/107WikNVtve-QY7I7-pMsdFFHpAnNFxmO/view?usp=sharing)
-- [Cleaned dataset](https://drive.google.com/drive/folders/1zEumhkVybecdpP9SETxyF5gMEYWHQbdJ?usp=sharing)
+- [Cleaned dataset](https://drive.google.com/file/d/1J1gk4LVZSjy-B2BDxy5SrwZ3LMHHmIRY/view?usp=sharing)
 - [Website with streamlit deployed](https://papers-please-proj.streamlit.app/)
 - [Github repo for the website](https://github.com/vinitian/data-sci-scopus-proj-deploy/)
 - [Canva slides](https://www.canva.com/design/DAGYxJrBT20/QMKzpyGfFteFY3Z1_OxiDQ/edit?utm_content=DAGYxJrBT20&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
